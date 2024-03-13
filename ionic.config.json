@@ -1,0 +1,8 @@
+{
+  "name": "app-gea",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "bd920bef"
+}
